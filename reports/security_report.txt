@@ -1,0 +1,24 @@
+==================================================
+        SENTINELLOG SECURITY REPORT
+==================================================
+Log File: examples/sample_auth.log
+
+GENERAL STATISTICS
+--------------------------------------------------
+Total Events: 16
+Failed Logins: 13
+Successful Logins: 3
+Unique IPs: 5
+Unique Usernames: 6
+Suspicious IPs: 1
+
+SUSPICIOUS ACTIVITY
+--------------------------------------------------
+[MEDIUM] Suspicious Activity
+IP Address: 192.168.1.50
+Reason: Multiple failed login attempts and Multiple usernames targeted
+Failed Attempts: 8
+Unique Usernames: 4
+Risk Score: 60/100
+
+==================================================
